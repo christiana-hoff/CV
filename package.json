@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiana-hoff/CV.git"
+  },
+  "author": "Christiana Hoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiana-hoff/CV/issues"
+  },
+  "homepage": "https://github.com/christiana-hoff/CV#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1"
+  }
+}

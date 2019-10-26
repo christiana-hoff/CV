@@ -1,0 +1,32 @@
+
+
+.introduction{
+
+}
+
+#researchStyle{
+
+}
+
+.description{
+    width:100%;
+}
+
+p { 
+    display: table;
+    margin:auto;
+    border-bottom:1px dotted;
+}
+
+/* 
+p {
+    border-bottom:1px dotted;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 100px; 
+  }   
+
+
+  
+ 
